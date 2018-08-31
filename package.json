@@ -1,0 +1,28 @@
+{
+  "name": "horizotal-bootstrap-admin",
+  "version": "1.0.0",
+  "description": "A horizotal bootstrap admin",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Nsrfc/horizotal-bootstrap-admin.git"
+  },
+  "keywords": [
+    "bootstrap",
+    "admin"
+  ],
+  "author": "Nsrfc",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Nsrfc/horizotal-bootstrap-admin/issues"
+  },
+  "homepage": "https://github.com/Nsrfc/horizotal-bootstrap-admin#readme",
+  "dependencies": {
+    "bootstrap": "^4.1.3",
+    "jquery": "^3.3.1",
+    "popper.js": "^1.14.4"
+  }
+}
